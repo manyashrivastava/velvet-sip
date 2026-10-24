@@ -1,7 +1,3 @@
-# Velvet Sip [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-blue)](https://manyashrivastava.github.io/velvet-sip/)
-
-![Velvet Sip](./img/home.png)
-
 ## Live Demo
 
 Check out the live website [here](https://manyashrivastava.github.io/velvet-sip/).
