@@ -1,14 +1,14 @@
-# Toofan Express [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-blue)](https://manyashrivastava.github.io/toofan-express/)
+# Velvet Sip [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-blue)](https://manyashrivastava.github.io/velvet-sip/)
 
-![Toofan Express](./img/home.png)
+![Velvet Sip](./img/home.png)
 
 ## Live Demo
 
-Check out the live website [here](https://manyashrivastava.github.io/toofan-express/).
+Check out the live website [here](https://manyashrivastava.github.io/velvet-sip/).
 
 ## Introduction
 
-Welcome to Toofan Express, a dynamic and fast-paced news website dedicated to delivering the latest breaking news and in-depth stories from around the world. With a focus on accuracy, speed, and comprehensive coverage, Toofan Express brings you the whirlwind of global events, politics, business, technology, entertainment, and more. Whether you're looking for up-to-the-minute updates or thoughtful analysis, Toofan Express ensures you stay informed and ahead of the curve in today's ever-changing landscape.
+Welcome to Velvet Sip, a dynamic and fast-paced news website dedicated to delivering the latest breaking news and in-depth stories from around the world. With a focus on accuracy, speed, and comprehensive coverage, Velvet Sip brings you the whirlwind of global events, politics, business, technology, entertainment, and more. Whether you're looking for up-to-the-minute updates or thoughtful analysis, Velvet Sip ensures you stay informed and ahead of the curve in today's ever-changing landscape.
 
 
 ## Features
@@ -45,12 +45,12 @@ Follow these instructions to set up the project on your local machine.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/ManyaShrivastava/toofan-express.git
+    git clone https://github.com/ManyaShrivastava/velvet-sip.git
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd toofan-express
+    cd velvet-sip
     ```
 
 3. Open `index.html` in your web browser to view the website.
@@ -68,4 +68,5 @@ Follow these instructions to set up the project on your local machine.
 ## Acknowledgements
 
 - Thanks to all contributors and users for their support.
+
 
